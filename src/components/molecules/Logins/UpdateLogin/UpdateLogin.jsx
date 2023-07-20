@@ -126,19 +126,6 @@ export default function UpdateLogin({idUpdate,load,setLoad}) {//cambiar nombre d
                             onChange={handleChange}
                             value={values.picture}
                             />
-                            {/* <TextField 
-                            sx={{mt:3}}
-                            fullWidth
-                            id="outlined-basic" 
-                            name="password"
-                            label="Contraseña"
-                            type="password" //aumentar tipo de datos
-                            variant="outlined" 
-                            onChange={handleChange}
-                            value={values.password}
-                            error={errors.password} //aumentar error
-                            helperText={errors.password} //aumentar error
-                            /> */}
 
                         </DialogContentText>
                         </DialogContent>
