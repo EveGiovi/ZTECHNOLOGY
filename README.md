@@ -1,4 +1,4 @@
-# ZTECHNOLOGY
+# ZTECHNOLOGY -frontend
 //instalar packages:
 - npm install  ts-node
 - npm i react-router-dom
